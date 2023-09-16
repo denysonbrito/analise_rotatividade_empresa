@@ -42,3 +42,11 @@ Baixe ou clone o repositório para seu computador, acesse a pasta relatório e a
 Evidência de entrega
 
 Foi escolhido o Python através do site https://colab.research.google.com para o carregamento dos dados, limpeza e exportação com auxilio da biblioteca pandas. A ferramenta Tableau foi utilizada para visualização dos dados e aumentar a possibilidade de obter insigths preciosos que fizeram toda a diferença no relatório de rotatividade de funcionários.
+
+## Quer colaborar, dar sugestões ou fazer elogios? entre em contato:
+<a href="https://www.linkedin.com/in/denyson-analista-de-dados/">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+<br />
+        
+<a href="denysonbrito@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
