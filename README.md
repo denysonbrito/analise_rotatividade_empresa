@@ -29,7 +29,7 @@ o contexto da história. <br>
 
 ## *Conclusão*
 
-O objetivo do projeto foi alcançado, foram extraídos várias percepções baseados na média de cada item, e também foram incluídos gráficos para facilitar a interpretação dos números levantados pelo relatório.
+A partir dos dados fornecidos podemos entender melhor as principais razões para a saída dos funcionários, quase 72% das saídas são compostas por 4 razões e foi mostrado visualmente com diversos gráficos feitos na ferramenta tableau para facilitar a compreensão e obter respostas com a combinação dos dados através da média pondera.
 
 ## *Ferramentas utilizadas*
 - Google Colaboratory <br />
@@ -37,4 +37,8 @@ O objetivo do projeto foi alcançado, foram extraídos várias percepções base
 - Tableau <br />
   
 ## *Como usar*
-Baixe ou clone o repositório para seu computador, acesse a pasta relatório e abra o arquivo Projeto_individual_modulo_5 do tipo .ipynb ou acesse https://colab.research.google.com/, clique em ficheiro e depois clique na opção carregar bloco de notas, localize o arquivo em seu computador e carregará automaticamente, para carregar o arquivo contendo a base de dados no Colab, vá em ficheiro, carregar para o armazenamento da sessão, procure pelo arquivo FONTE DE DADOS.xlsx, depois clique em tempo de execução e na opção executar tudo.
+Baixe ou clone o repositório para seu computador, acesse a pasta relatório e abra o arquivo Projeto_individual_modulo_5 do tipo .ipynb ou acesse https://colab.research.google.com/, clique em ficheiro e depois clique na opção carregar bloco de notas, localize o arquivo em seu computador e carregará automaticamente, para carregar o arquivo contendo a base de dados no Colab, vá em ficheiro, carregar para o armazenamento da sessão, procure pelo arquivo FONTE DE DADOS.xlsx na pasta base de dados, depois clique em tempo de execução e na opção executar tudo.
+
+Evidência de entrega
+
+Foi escolhido o Python através do site https://colab.research.google.com para o carregamento dos dados, limpeza e exportação com auxilio da biblioteca pandas. A ferramenta Tableau foi utilizada para visualização dos dados e aumentar a possibilidade de obter insigths preciosos que fizeram toda a diferença no relatório de rotatividade de funcionários.
